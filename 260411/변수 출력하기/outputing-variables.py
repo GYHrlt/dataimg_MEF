@@ -1,3 +1,3 @@
 a,b = 3, 'C'
 
-print('%d...%s',(a,b))
+print('%d...%s'%(a,b))
